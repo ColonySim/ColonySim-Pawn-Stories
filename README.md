@@ -18,3 +18,10 @@ Pawn Stories — прототип самостоятельных решений 
 Значки из [Lucide 0.468.0](https://github.com/lucide-icons/lucide/tree/0.468.0), лицензия лежит в `Assets/ThirdParty`.
 
 Источники подходов: [The Sims 4 — черты, вкусы и профиль](https://help.ea.com/en/articles/the-sims/the-sims-4/gender-romance-attraction-guide/), [RimWorld — прошлое и навыки](https://rimworldgame.com/), [Dwarf Fortress — грани личности](https://www.bay12games.com/media/df_talk_11_transcript.html). В интерфейсе использованы короткий обзор цели из [The Sims 4](https://www.ea.com/games/the-sims/the-sims-4/news/whims-aspirations-goals), компактная карточка навыков [RimWorld](https://rimworldwiki.com/wiki/Characters) и отдельные вкладки личности и истории из [Dwarf Fortress](https://www.pcgamer.com/graphical-dwarf-fortress-keeps-looking-better-with-new-character-sheets/).
+
+## Репозитории ColonySim
+
+- [Валт Obsidian](https://github.com/ilyasazazaz/ColonySim-Vault)
+- [Продукт](https://github.com/ilyasazazaz/ColonySim-Product)
+- [Simple Colony](https://github.com/ilyasazazaz/ColonySim-Simple-Colony)
+- [Pawn Stories](https://github.com/ilyasazazaz/ColonySim-Pawn-Stories)
